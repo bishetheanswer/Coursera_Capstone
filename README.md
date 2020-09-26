@@ -10,3 +10,5 @@ In this repository wou will find the **Notebook**, the **Report** and the **Pres
 * Built Decision Tree, K Nearest Neighbors and Logistic Regression models.
 
 ![](map.gif)
+
+_(The logo used in the report´s cover page is from [Seattle Ballers](https://en.wikipedia.org/wiki/Seattle_Ballers))_
