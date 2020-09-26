@@ -1,7 +1,7 @@
 
 Seattle Collision Severity Classifier
 ======================
-In this repository wou will find the **Notebook**, the **Report** and the **Presentation** of the project.
+In this repository wou will find the **Notebook**, the **Report** and the **Presentation** of the project. You can also find the full notebook [here](https://www.kaggle.com/bishetheanswer/seattle-collision-severity-classifier) at Kaggle, where the interactive map is available.
 
 * Performed data cleaning and feature selection.
 * Analyzed the evolution of the amount of collisions through years.
