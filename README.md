@@ -1,7 +1,7 @@
 
 Seattle Collision Severity Classifier
 ======================
-In this repository wou will find the **Notebook**, the **Report** and the **Presentation** of the project.
+In this repository you will find the **Notebook**, the **Report** and the **Presentation** of the project.
 * Performed data cleaning and feature selection.
 * Analyzed the evolution of the amount of collisions through the years.
 * Analyzed how the collisions distribute through the day and how being influenced by alcohol/ drugs affects to collisions.
